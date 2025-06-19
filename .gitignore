@@ -1,0 +1,16 @@
+# Ignore Visual Studio and other IDE folders
+.vs/
+
+# Build output directories
+bin/
+obj/
+
+# User specific project files
+*.csproj.user
+*.user
+*.suo
+
+# Cache and log files
+*.cache
+*.log
+
